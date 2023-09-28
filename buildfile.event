@@ -1,0 +1,7 @@
+
+ORG 0x1D76680 //freespace
+
+#define TextTable 0x1CDC668
+
+#include "installer/installer.event"
+#include "text/InstallTextData.event"

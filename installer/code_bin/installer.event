@@ -1,0 +1,44 @@
+/*
+this sucks but i cant be arsed to go rewrite 7743's asm 
+so that it actually compiles.
+so enjoy some pre-compiled code binaries. yay.
+what is the code doing? who knows...
+*/
+
+#define jumpToHack_r1j(offset) "BYTE 0x0 0x49 0x8F 0x46; POIN offset|1"
+#define jumpToHack_r3j(offset) "BYTE 0x0 0x4B 0x9F 0x46; POIN offset|1"
+
+ALIGN 4
+item:
+#incbin "multibyte/drawsinglebyte_item.bin"
+itemwidth:
+#incbin "multibyte/drawsinglebyte_item_width.bin"
+nextline:
+#incbin "multibyte/drawsinglebyte_nextline.bin"
+serif:
+#incbin "multibyte/drawsinglebyte_serif.bin"
+serifwidth:
+#incbin "multibyte/drawsinglebyte_serif_width.bin"
+
+PUSH
+	ORG $40c2
+	BYTE 0x0 0x0
+	jumpToHack_r1j(serif)
+	ORG $3e74
+	jumpToHack_r3j(serifwidth)
+	ORG $3f44
+	jumpToHack_r1j(item)
+	ORG $3e2c
+	jumpToHack_r3j(itemwidth)
+	ORG $3f12
+	BYTE 0x0 0x0
+	jumpToHack_r1j(nextline)
+	ORG $12F8A
+	BYTE 0x1A 0x70 0x5A 0x70 //fix freezes by teq
+	ORG $2af4
+	#incbin "antihuffman/2af4.bin"
+	ORG $9fb2
+	#incbin "antihuffman/9fb2.bin"
+	ORG $454120
+	#incbin "antihuffman/454120.bin"
+POP

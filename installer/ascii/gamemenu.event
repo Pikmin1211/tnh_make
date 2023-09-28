@@ -1,0 +1,181 @@
+
+#define MenuString(stuff) "BYTE 0x20; String(stuff); BYTE 0x00; ALIGN 4"
+#define GenericMenuString(offset, id) "ORG (offset + id * 36)"
+
+#define UnitMenuString(id) "GenericMenuString(0xB49E40, id)"
+#define UnitMenuString(id, offset) "UnitMenuString(id); POIN offset"
+#define ItemMenuString(id) "GenericMenuString(0x5C4A94, id)"
+#define ItemMenuString(id, offset) "ItemMenuString(id); POIN offset"
+#define YesNoString(id) "GenericMenuString(0x5C4A28, id)"
+#define YesNoString(id, offset) "YesNoString(id); POIN offset"
+#define MapMenuString(id) "GenericMenuString(0x5C534C, id)"
+#define MapMenuString(id, offset) "MapMenuString(id); POIN offset"
+#define ClassChangeString(id) "GenericMenuString(0xBAB914, id)"
+#define ClassChangeString(id, offset) "ClassChangeString(id); POIN offset"
+
+PUSH
+	// unit menu
+	UnitMenuString(0x0, SeizeString)
+	UnitMenuString(0x1, AttackString)
+	UnitMenuString(0x2, AttackString)
+	UnitMenuString(0x3, StaffString)
+	UnitMenuString(0x4, RideString)
+	UnitMenuString(0x5, ExitString)
+	UnitMenuString(0x6, DanceString)
+	UnitMenuString(0x7, StealString)
+	UnitMenuString(0x8, SummonString)
+	UnitMenuString(0x9, CaptureString)
+	UnitMenuString(0xA, PickString)
+	UnitMenuString(0xB, TalkString)
+	UnitMenuString(0xC, VisitString)
+	UnitMenuString(0xD, ChestString)
+	UnitMenuString(0xE, DoorString)
+	UnitMenuString(0xF, EscapeString)
+	UnitMenuString(0x10, ArmoryString)
+	UnitMenuString(0x11, VendorString)
+	UnitMenuString(0x12, SecretString)
+	UnitMenuString(0x13, ArenaString)
+	UnitMenuString(0x14, RescueString)
+	UnitMenuString(0x15, RefugeString)
+	UnitMenuString(0x16, DropString)
+	UnitMenuString(0x17, TakeString)
+	UnitMenuString(0x18, GiveString)
+	UnitMenuString(0x19, SupportString)
+	UnitMenuString(0x1A, ItemString)
+	UnitMenuString(0x1B, TradeString)
+	UnitMenuString(0x1C, SupplyString)
+	UnitMenuString(0x1D, ArriveString)
+	UnitMenuString(0x1E, ShoveString)
+	UnitMenuString(0x1F, SmiteString)
+	UnitMenuString(0x20, PivotString)
+	UnitMenuString(0x21, PullString)
+	UnitMenuString(0x22, SwapString)
+	UnitMenuString(0x3E, WaitString)
+	// item menu
+	ItemMenuString(0x0, UseString)
+	ItemMenuString(0x1, EquipString)
+	ItemMenuString(0x2, TradeString)
+	ItemMenuString(0x3, DiscardString)
+	// yes no menu
+	YesNoString(0x0, YesString)
+	YesNoString(0x1, NoString)
+	// map menu
+	MapMenuString(0x0, RangeString)
+	MapMenuString(0x1, UnitString)
+	MapMenuString(0x2, StatusString)
+	MapMenuString(0x3, GuideString)
+	MapMenuString(0x4, OptionsString)
+	MapMenuString(0x5, LoreString)
+	MapMenuString(0x6, SuspendString)
+	MapMenuString(0x7, EndString)
+	// class change menu
+	ClassChangeString(0x0, ChangeString)
+	ClassChangeString(0x1, CancelString)
+POP
+
+ALIGN 4
+// unit menu
+SeizeString:
+MenuString(Seize)
+AttackString:
+MenuString(Attack)
+StaffString:
+MenuString(Staff)
+RideString:
+MenuString(Ride)
+ExitString:
+MenuString(Exit)
+DanceString:
+MenuString(Dance)
+StealString:
+MenuString(Steal)
+SummonString:
+MenuString(Summon)
+CaptureString:
+MenuString(Capture)
+PickString:
+MenuString(Pick)
+TalkString:
+MenuString(Talk)
+VisitString:
+MenuString(Visit)
+ChestString:
+MenuString(Chest)
+DoorString:
+MenuString(Door)
+ArmoryString:
+MenuString(Armory)
+VendorString:
+MenuString(Vendor)
+SecretString:
+MenuString(Secret)
+ArenaString:
+MenuString(Arena)
+RescueString:
+MenuString(Rescue)
+RefugeString:
+MenuString(Refuge)
+DropString:
+MenuString(Drop)
+TakeString:
+MenuString(Take)
+GiveString:
+MenuString(Give)
+SupportString:
+MenuString(Support)
+ItemString:
+MenuString(Item)
+TradeString:
+MenuString(Trade)
+SupplyString:
+MenuString(Supply)
+EscapeString:
+MenuString(Escape)
+ArriveString:
+MenuString(Arrive)
+ShoveString:
+MenuString(Shove)
+SmiteString:
+MenuString(Smite)
+PivotString:
+MenuString(Pivot)
+PullString:
+MenuString(Pull)
+SwapString:
+MenuString(Swap)
+WaitString:
+MenuString(Wait)
+// item menu
+UseString:
+MenuString(Use)
+EquipString:
+MenuString(Equip)
+DiscardString:
+MenuString(Discard)
+// yes no menu
+YesString:
+MenuString(Yes)
+NoString:
+MenuString(No)
+// map menu
+RangeString:
+MenuString(Range)
+UnitString:
+MenuString(Unit)
+StatusString:
+MenuString(Status)
+GuideString:
+MenuString(Guide)
+OptionsString:
+MenuString(Options)
+LoreString:
+MenuString(Lore)
+SuspendString:
+MenuString(Suspend)
+EndString:
+MenuString(End)
+// class change menu
+ChangeString:
+MenuString(Change)
+CancelString:
+MenuString(Cancel)

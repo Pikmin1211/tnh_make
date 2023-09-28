@@ -1,0 +1,429 @@
+
+#0x88 IsaacName
+Isaac[X]
+
+#0x9A WolfName
+Wolf[X]
+
+#0x80 BerkusName
+Berkus[X]
+
+#0x19C OrnisName
+Ornis[X]
+
+#0x96 MorrisName
+Morris[X]
+
+#0x1A1 KaraName
+Kara[X]
+
+#0xA3 JesterName
+Jester[X]
+
+#0x1A0 FerrisName
+Ferris[X]
+
+#0x50 BrianName
+Brian[X]
+
+#0x1A2 BerylName
+Beryl[X]
+
+#0x1A3 DuranName
+Duran[X]
+
+#0x1A5 AudreyName
+Audrey[X]
+
+#0x1A6 ArtieName
+Artie[X]
+
+#0x1B5 JohnnyName
+Johnny[X]
+
+#0x1A7 LiddyName
+Liddy[X]
+
+#0x19E CerberusName
+Cerberus[X]
+
+#0x1A9 HamiltonName
+Hamilton[X]
+
+#0x1AA LilliaName
+Lillia[X]
+
+#0x1B3 GinaName
+Gina[X]
+
+#0x1AB TitorName
+Titor[X]
+
+#0x1A8 SeleneName
+Selene[X]
+
+#0x1AE ChloeName
+Chloe[X]
+
+#0x1A4 BorisName
+Boris[X]
+
+#0x199 ArianaName
+Ariana[X]
+
+#0x1B1 SofiaName
+Sofia[X]
+
+#0x1B8 VulcanName
+Vulcan[X]
+
+#0x1B0 RemName
+Rem[X]
+
+#0xAE GiraldiName
+Giraldi[X]
+
+#0xB0 MurasameName
+Murasame[X]
+
+#0x1B6 GraceName
+Grace[X]
+
+#0x1B7 KronosName
+Kronos[X]
+
+#0x19B RichterName
+Richter[X]
+
+#0x1BE RosalieName
+Rosalie[X]
+
+#0x1BA MythraName
+Mythra[X]
+
+#0xB4 IrisName
+Iris[X]
+
+#0xD4F FelixName
+Felix[X]
+
+#0xF14 EdmundName
+Edmund[X]
+
+#0xD54 HartmannName
+Hartmann[X]
+
+#0x19A DonQuixoteName
+Don Quixote[X]
+
+#0x1CD HestiaName
+Hestia[X]
+
+#0x1CF VictorName
+Victor[X]
+
+#0x97 HaguroName
+Haguro[X]
+
+#0xFE0 AdelardName
+Adelard[X]
+
+#0x1E3 JoelName
+Joel[X]
+
+#0xC5 ViolaName
+Viola[X]
+
+#0x1174 TemjinName
+Temjin[X]
+
+#0xBB LarumName
+Larum[X]
+
+#0x1AF WilhelmName
+Wilhelm[X]
+
+#0x1B4 HermesName
+Hermes[X]
+
+#0xD40 GeronimoName
+Geronimo[X]
+
+#0xCD EchidnaName
+Echidna[X]
+
+#0x1CB JeorgName
+Jeorg[X]
+
+#0x1C8 CalvinName
+Calvin[X]
+
+#0xC4 ElffinName
+Elffin[X]
+
+#0x1EE
+Enemy[X]
+
+#0x1F4
+Captain[X]
+
+#0x1F3 HorvasName
+Horvas[X]
+
+#0x109A MithosName
+Mithos[X]
+
+#0x1D1 GaliusName
+Galius[X]
+
+#0x1B9 DarisName
+Daris[X]
+
+#0x1BF AliciaName
+Alicia[X]
+
+#0x1C0 HesusName
+Hesus[X]
+
+#0x9F NoireName
+Noire[X]
+
+#0x1C2 RocheName
+Roche[X]
+
+#0x1CC DemiName
+Demi[X]
+
+#0x1C3 DanielName
+Daniel[X]
+
+#0x1C4 NomaName
+Noma[X]
+
+#0x1C5 HawkwoodName
+Hawkwood[X]
+
+#0x1C6 EvanName
+Evan[X]
+
+#0x1C7 ZotName
+Zot[X]
+
+#0x1C9 FreyaName
+Freya[X]
+
+#0x1AD JohnName
+John[X]
+
+#0x1E6 HugelName
+Hugel[X]
+
+#0x1CA DennisName
+Dennis[X]
+
+#0x1F2 MordenName
+Morden[X]
+
+#0x12A3 RambantName
+Rambant[X]
+
+#0x1CE OliverName
+Oliver[X]
+
+#0x109B Dragoon1Name
+Dragoon 1[X]
+
+#0x10A8 GuidoName
+Guido[X]
+
+#0x92 MargayName
+Margay[X]
+
+#0x1D7
+Scoundrel[X]
+
+#0x1D6
+Brigand[X]
+
+#0x1D0 JulioName
+Julio[X]
+
+#0x1D2 HadithName
+Hadith[X]
+
+#0xF66 BorgName
+Borg[X]
+
+#0x1BC YukarnName
+Yukarn[X]
+
+#0xF67 BolganName
+Bolgan[X]
+
+#0xD4B GuidoName2
+Guido[X]
+
+#0xC9 RaptorName
+Raptor[X]
+
+#0x1F1 JaccsName
+Jaccs[X]
+
+#0xCF LolaName
+Lola[X]
+
+#0xD53
+Hartmann's[X]
+
+#0xD52
+Valkyrie[X]
+
+#0x55
+Etruria[X]
+
+#0x51
+Schwarz[X]
+
+#0xA7
+Beacon[X]
+
+#0x1DB
+Roche's[X]
+
+#0xAB
+Officer[X]
+
+#0x1032
+Ilia[X]
+
+#0x104E ZincName
+Zinc[X]
+
+#0x104F MarxName
+Marx[X]
+
+#0xD37 LiamName
+Liam[X]
+
+#0x7E
+Resistance[X]
+
+#0x11A5
+Ironblood[X]
+
+#0x1D9
+Hugel's[X]
+
+#0x1E0
+Liberation[X]
+
+#0x1DA
+Mercenary[X]
+
+#0x56
+Thief[X]
+
+#0x1C1 MigeName
+Mige[X]
+
+#0x7A
+Zot's[X]
+
+#0x1DC
+Monster[X]
+
+#0x19F
+Unicorn[X]
+
+#0x1B2
+Centurion[X]
+
+#0xF64
+Aegis[X]
+
+#0xF65
+Trident[X]
+
+#0x1DD
+Monster[X]
+
+#0x1E1
+Fomortiis[X]
+
+#0x1E8
+Dragoon[X]
+
+#0x1E9
+Liam's[X]
+
+#0x11A1 EthanName
+Ethan[X]
+
+#0x11A2 TailsName
+Tails[X]
+
+#0x11A3 GonoregoName
+Gonorego[X]
+
+#0x11A4 EmmaName
+Emma[X]
+
+#0x12A1 NikeName
+Nike[X]
+
+#0x12A5 WeitzName
+Weitz[X]
+
+#0x1E4 KlimtName
+Klimt[X]
+
+#0x130B
+Maid[X]
+
+#0x1EA
+Vigilante[X]
+
+#0x1063 VarigosName
+Varigos[X]
+
+#0xBF RoyName
+Roy[X]
+
+#0x129C YggdraName
+Yggdra[X]
+
+#0x1DF
+Gladiator[X]
+
+#0x1323 BonnieName
+Bonnie[X]
+
+#0x1324 ClydeName
+Clyde[X]
+
+#0x1322 AinName
+Ain[X]
+
+#0x133F KurganName
+Kurgan[X]
+
+#0x1340 CandyName
+Candy[X]
+
+#0x1341 GentleName
+Gentle[X]
+
+#0x134E
+Captain[X]
+
+#0x1ED
+Civilian[X]
+
+#0x1EB
+Civilian[X]
+
+#0x1EF
+Wall[X]
+
+#0x1F0
+Snag[X]

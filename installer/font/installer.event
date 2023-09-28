@@ -1,0 +1,11 @@
+
+#include "../../event/item_font_installer.event"
+#include "../../event/serif_font_installer.event"
+
+PUSH
+	// insert fonts
+	ORG 0x590EB4
+	POIN itemFontEntryNumber0
+	ORG 0x5B6384
+	POIN serifFontEntryNumber0
+POP

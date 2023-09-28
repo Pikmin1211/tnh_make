@@ -1,0 +1,25 @@
+
+# rom stuff
+*.gba
+*.sym
+*.sav
+*.sgm
+*.ss0
+*.ss1
+*.ss2
+*.ss3
+*.ss4
+*.ss5
+*.ss6
+*.ss7
+*.ss8
+*.ss9
+
+# compiled stuff
+bin/
+event/
+
+# compiled text stuff
+text/.TextEntries/
+text/InstallTextData.event
+text/TextDefinitions.event

@@ -1,0 +1,251 @@
+#0x71 ChevalierName
+Chevalier[X]
+
+#0x66 RavenName
+Raven[X]
+
+#0x247 CommandeurName
+Commandeur[X]
+
+#0x287 CommandKnightName
+Command Kn.[X]
+
+#0x248 CavalierName
+Cavalier[X]
+
+#0x249 PaladinName
+Paladin[X]
+
+#0x24A LanceArmorName
+Lnc. Armor[X]
+
+#0x288 AxeArmorName
+Axe Armor[X]
+
+#0x24B GeneralName
+General[X]
+
+#0x24C ThiefName
+Thief[X]
+
+#0x24D MercenaryName
+Mercenary[X]
+
+#0xF10 SwordArmorName
+Swd. Armor[X]
+
+#0x24E HeroName
+Hero[X]
+
+#0x24F MyrmidonName
+Myrmidon[X]
+
+#0x250 SwordmasterName
+Swordmaster[X]
+
+#0x251 AssassinName
+Assassin[X]
+
+#0x252 ArcherName
+Archer[X]
+
+#0x253 SniperName
+Sniper[X]
+
+#0x254 RangerName
+Ranger[X]
+
+#0x255 WyvernRiderName
+Wyvern Rider[X]
+
+#0x256 WyvernLordName
+Wyvern Lord[X]
+
+#0x257 WyvernKnightName
+Wyvern Kn.[X]
+
+#0x25C DarkFlierName
+Dark Flier[X]
+
+#0x258 MageName
+Mage[X]
+
+#0x259 SageName
+Sage[X]
+
+#0x25A MageKnightName
+Mage Knight[X]
+
+#0x25B BishopName
+Bishop[X]
+
+#0x268 ShamanName
+Shaman[X]
+
+#0x269 DruidName
+Druid[X]
+
+#0x26A SummonerName
+Summoner[X]
+
+#0x262 RogueName
+Rogue[X]
+
+#0x267 GreatKnightName
+Great Knight[X]
+
+#0xF41 SergeantName
+Sergeant[X]
+
+#0x1342 ImperialName
+Imperial[X]
+
+#0x1343 PrincessName
+Princess[X]
+
+#0x261 RecruitName
+Recruit[X]
+
+#0x25E ManaketeName
+Manakete[X]
+
+#0xE66 ThaumaturgeName
+Thumaturge[X]
+
+#0x260 PupilName
+Pupil[X]
+
+#0x263 FighterName
+Fighter[X]
+
+#0x264 WarriorName
+Warrior[X]
+
+#0x265 BrigandName
+Brigand[X]
+
+#0x275 PirateName
+Pirate[X]
+
+#0x266 BerserkerName
+Berserker[X]
+
+#0x26B MonkName
+Monk[X]
+
+#0x26D PriestName
+Priest[X]
+
+#0x26C BardName
+Bard[X]
+
+#0x274 SoldierName
+Soldier[X]
+
+#0x26E PegasusKnightName
+Pegasus Kn.[X]
+
+#0x26F FalconKnightName
+Falcoknight[X]
+
+#0x270 ClericName
+Cleric[X]
+
+#0x271 TroubadourName
+Troubadour[X]
+
+#0x272 ValkyrieName
+Valkyrie[X]
+
+#0x273 DancerName
+Dancer[X]
+
+#0x25D MasterLordName
+Master Lord[X]
+
+#0x277 FleetName
+Fleet[X]
+
+#0x278 PhantomName
+Phantom[X]
+
+#0x58A WitchName
+Witch[X]
+
+#0x6A HalberdierName
+Halberdier[X]
+
+#0x27B ArchKnightName
+Arch Knight[X]
+
+#0x27C BowKnightName
+Bow Knight[X]
+
+#0x27D BaelName
+Bael[X]
+
+#0x27E ElderBaelName
+Elder Bael[X]
+
+#0x27F StrayLordName
+Stray Lord[X]
+
+#0x280 MautheDoogName
+Mauthe Doog[X]
+
+#0x281 GwyllgiName
+Gwyllgi[X]
+
+#0x282 AxeKnightName
+Axe Knight[X]
+
+#0x283 DragoonName
+Dragoon[X]
+
+#0x284 BaronName
+Baron[X]
+
+#0x286 BallisticianName
+Ballistician[X]
+
+#0x285 MasterKnightName
+Master Kn.[X]
+
+#0x28A DracoZombieName
+Draco Zombie[X]
+
+#0x28B DemonKingName
+Demon King[X]
+
+#0x28C CivilianName
+Civilian[X]
+
+#0x279 MaidName
+Maid[X]
+
+#0xC7 HarbingerName
+Harbinger[X]
+
+#0xC8 LaPucelleName
+La Pucelle[X]
+
+#0xC6 CommanderName
+Commander[X]
+
+#0xA1 FireDragonName
+Fire Dragon[X]
+
+#0x28F TransporterName
+Transporter[X]
+
+#0x28D PopeName
+Pope[X]
+
+#0x79 TacticianName
+Tactician[X]
+
+#0x27A WarMonkName
+War Monk[X]
+
+#0xF2B ButlerName
+Butler[X]
