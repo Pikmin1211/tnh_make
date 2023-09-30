@@ -1,0 +1,749 @@
+#0x2DB IronSwordName
+Iron Sword[X]
+
+#0x2DC SlimSwordName
+Slim Sword[X]
+
+#0x2DD SteelSwordName
+Steel Sword[X]
+
+#0x2DE SilverSwordName
+Silver Sword[X]
+
+#0x2DF IronBladeName
+Iron Blade[X]
+
+#0x2E0 SteelBladeName
+Steel Blade[X]
+
+#0x2E1 SilverBladeName
+Silver Blade[X]
+
+#0x2E2 PoisonSwordName
+Poison Sword[X]
+
+#0x2E3 RapierName
+Rapier[X]
+
+#0xCC FlambergeName
+Flamberge[X]
+
+#0x2E4 BraveSwordName
+Brave Sword[X]
+
+#0x2E5 WoDaoName
+Wo Dao[X]
+
+#0x2E6 KillingEdgeName
+Killing Edge[X]
+
+#0x2E7 ArmorslayerName
+Armorslayer[X]
+
+#0x2E8 WyrmslayerName
+Wyrmslayer[X]
+
+#0x2E9 LightBrandName
+Light Brand[X]
+
+#0x2EA RuneswordName
+Runesword[X]
+
+#0x2EB LancereaverName
+Lancereaver[X]
+
+#0x2EC ZanbatoName
+Zanbato[X]
+
+#0x2F0 IronLanceName
+Iron Lance[X]
+
+#0x2F1 SlimLanceName
+Slim Lance[X]
+
+#0x2F2 SteelLanceName
+Steel Lance[X]
+
+#0x2F3 SilverLanceName
+Silver Lance[X]
+
+#0x2F4 ToxinLanceName
+Toxin Lance[X]
+
+#0x2F5 BraveLanceName
+Brave Lance[X]
+
+#0x2F6 KillerLanceName
+Killer Lance[X]
+
+#0x2F7 HorseslayerName
+Horseslayer[X]
+
+#0x2F8 JavelinName
+Javelin[X]
+
+#0x2F9 SpearName
+Spear[X]
+
+#0x2FA AxereaverName
+Axereaver[X]
+
+#0x301 IronAxeName
+Iron Axe[X]
+
+#0x302 SteelAxeName
+Steel Axe[X]
+
+#0x303 SilverAxeName
+Silver Axe[X]
+
+#0x304 PoisonAxeName
+Poison Axe[X]
+
+#0x305 BraveAxeName
+Brave Axe[X]
+
+#0x306 KillerAxeName
+Killer Axe[X]
+
+#0x307 HalberdName
+Halberd[X]
+
+#0x308 HammerName
+Hammer[X]
+
+#0x309 DevilAxeName
+Devil Axe[X]
+
+#0x30A HandAxeName
+Hand Axe[X]
+
+#0x30B TomahawkName
+Tomahawk[X]
+
+#0x30C SwordreaverName
+Swordreaver[X]
+
+#0x30D SwordslayerName
+Swordslayer[X]
+
+#0x311 HatchetName
+Hatchet[X]
+
+#0x312 IronBowName
+Iron Bow[X]
+
+#0x313 SteelBowName
+Steel Bow[X]
+
+#0x314 SilverBowName
+Silver Bow[X]
+
+#0x315 PoisonBowName
+Poison Bow[X]
+
+#0x316 KillerBowName
+Killer Bow[X]
+
+#0x317 BraveBowName
+Brave Bow[X]
+
+#0x318 ShortBowName
+Short Bow[X]
+
+#0x319 LongbowName
+Longbow[X]
+
+#0x31A BallistaName
+Ballista[X]
+
+#0x31B LongBallistaName
+Long Ballista[X]
+
+#0x31C KillerBallistaName
+Killer Ballista[X]
+
+#0x330 FireName
+Fire[X]
+
+#0x331 ThunderName
+Thunder[X]
+
+#0x332 ElfireName
+Elfire[X]
+
+#0x320 BlizzardName
+Blizzard[X]
+
+#0x335 ThoronName
+Thoron[X]
+
+#0x89 BolganoneName
+Bolganone[X]
+
+#0x336 SylpheedName
+Sylpheed[X]
+
+#0x337 LightningName
+Lightning[X]
+
+#0x338 ShineName
+Shine[X]
+
+#0x339 DivineName
+Divine[X]
+
+#0x33A PurgeName
+Purge[X]
+
+#0x33B AuraName
+Aura[X]
+
+#0x8D SaggittaeName
+Saggittae[X]
+
+#0x33D FluxName
+Flux[X]
+
+#0x33E RuinName
+Ruin[X]
+
+#0x33F NosferatuName
+Nosferatu[X]
+
+#0x340 MireName
+Mire[X]
+
+#0x341 FenrirName
+Fenrir[X]
+
+#0x342 GleipnirName
+Gleipnir[X]
+
+#0x349 HealName
+Heal[X]
+
+#0x34A MendName
+Mend[X]
+
+#0x34B RecoverName
+Recover[X]
+
+#0x34C PhysicName
+Physic[X]
+
+#0x34D FortifyName
+Fortify[X]
+
+#0x34E RestoreName
+Restore[X]
+
+#0x34F SilenceName
+Silence[X]
+
+#0x350 SleepName
+Sleep[X]
+
+#0x351 BerserkName
+Berserk[X]
+
+#0x352 WarpName
+Warp[X]
+
+#0x353 RescueName
+Rescue[X]
+
+#0x354 TorchStaffName
+Torch[X]
+
+#0x355 HammerneName
+Hammerne[X]
+
+#0x356 UnlockName
+Unlock[X]
+
+#0x357 BarrierName
+Barrier[X]
+
+#0x30E DragonAxeName
+Dragon Axe[X]
+
+#0x35B SeraphRobeName
+Seraph Robe[X]
+
+#0x35C EnergyRingName
+Energy Ring[X]
+
+#0x35D SkillManualName
+Skill Manual[X]
+
+#0x35E SpeedwingName
+Speedwing[X]
+
+#0x35F GoddessIconName
+Goddess Icon[X]
+
+#0x360 DracoshieldName
+Dracoshield[X]
+
+#0x361 TalismanName
+Talisman[X]
+
+#0x362 BootsName
+Boots[X]
+
+#0x363 SpiritDustName
+Spirit Dust[X]
+
+#0x364 HeroCrestName
+Hero Crest[X]
+
+#0x365 KnightCrestName
+Knight Crest[X]
+
+#0x366 OrionsBoltName
+Orion's Bolt[X]
+
+#0x367 ElysianWhipName
+Elysian Whip[X]
+
+#0x368 GuidingRingName
+Guiding Ring[X]
+
+#0x369 ChestKeyName
+Chest Key[X]
+
+#0x36A DoorKeyName
+Door Key[X]
+
+#0x36B MasterKeyName
+Master Key[X]
+
+#0x36C VulneraryName
+Vulnerary[X]
+
+#0x36D ElixirName
+Elixir[X]
+
+#0x36E PureWaterName
+Pure Water[X]
+
+#0x36F AntitoxinName
+Antitoxin[X]
+
+#0x370 TorchItemName
+Torch[X]
+
+#0x371 DelphiShieldName
+Delphi Shield[X]
+
+#0x372 MemberCardName
+Member Card[X]
+
+#0x373 SilverCardName
+Silver Card[X]
+
+#0x376 WhiteGemName
+White Gem[X]
+
+#0x377 BlueGemName
+Blue Gem[X]
+
+#0x378 RedGemName
+Red Gem[X]
+
+#0x379 GoldItemName
+Gold[X]
+
+#0x2FB WingSpearName
+Wing Spear[X]
+
+#0x4E MineName
+Mine[X]
+
+#0x4F LightRuneName
+Light Rune[X]
+
+#0x37A IronRuneName
+Iron Rune[X]
+
+#0x453 FillasMightName
+Filla's Might[X]
+
+#0x454 NinissGraceName
+Ninis's Grace[X]
+
+#0x455 ThorsIreName
+Thor's Ire[X]
+
+#0x456 SetsLitanyName
+Set's Litany[X]
+
+#0x32B GreatswordName
+Greatsword[X]
+
+#0x32C GreatlanceName
+Greatlance[X]
+
+#0x32D GreataxeName
+Greataxe[X]
+
+#0x32E GreatbowName
+Greatbow[X]
+
+#0x2ED Grannblaze2Name
+Grannblaze[X]
+
+#0x30F BattleaxeName
+Battleaxe[X]
+
+#0x33C JudgementName
+Judgement[X]
+
+#0x37B MasterSealName
+Master Seal[X]
+
+#0x37C MetisTome
+Metis Tome[X]
+
+#0x37F AscensionSealName
+Ascension Seal[X]
+
+#0x324 SharpClawName
+Sharp Claw[X]
+
+#0x358 LatonaName
+Latona[X]
+
+#0x326 MasterLanceName
+Master Lance[X]
+
+#0x2FD WintererName
+Winterer[X]
+
+#0x343 NagalfarName
+Nagalfar[X]
+
+#0x31E WretchedAirName
+Wretched Air[X]
+
+#0x2EE BeheadingName
+Beheading[X]
+
+#0x2FC TheEternalName
+The Eternal[X]
+
+#0x310 MistralName
+Mistral[X]
+
+#0x31D BelenusName
+Belenus[X]
+
+#0x2FF HeavySpearName
+Heavy Spear[X]
+
+#0x300 ShortSpearName
+Short Spear[X]
+
+#0x37D OceanSealName
+Ocean Seal[X]
+
+#0x38A DummyName
+Dummy[X]
+
+#0x10A4 PursuitRingName
+Pursuit Ring[X]
+
+#0x1203 WaryFighterManualName
+Wary Fighter[X]
+
+#0x1204 WardingBlowManualName
+Warding Blow[X]
+
+#0x1205 TriangleIneptManualName
+Triangle Inept[X]
+
+#0x1206 DartingBlowManualName
+Darting Blow[X]
+
+#0x384 Item100GName
+100G[X]
+
+#0x387 Item3000GName
+3000G[X]
+
+#0x388 Item5000GName
+5000G[X]
+
+#0x2EF WindSwordName
+Wind Sword[X]
+
+#0x1351 MasterBowName
+Master Bow[X]
+
+#0x359 DanceName
+Dance[X]
+
+#0x323 NightmareName
+Nightmare[X]
+
+#0x334 BoltingName
+Bolting[X]
+
+#0x321 DemonLightName
+Demon Light[X]
+
+#0x322 RavagerName
+Ravager[X]
+
+#0x31F DragonstoneName
+Dragonstone[X]
+
+#0x347 MeteorName
+Meteor[X]
+
+#0x348 PiercingBowName
+Piercing Bow[X]
+
+#0x1331 BoltAxeName
+Bolt Axe[X]
+
+#0x325 MasterAxeName
+Master Axe[X]
+
+#0x327 RottenClawName
+Rotten Claw[X]
+
+#0x328 FetidClawName
+Fetid Claw[X]
+
+#0x329 FieryFangName
+Fiery Fang[X]
+
+#0x32A HellfangName
+Hellfang[X]
+
+#0xE64 TrashChuteName
+Trash Chute[X]
+
+#0x346 FlameLanceName
+Flame Lance[X]
+
+#0x344 PetrifyName
+Petrify[X]
+
+#0x333 AircaliburName
+Aircalibur[X]
+
+#0x389 JunaFruitName
+Juna Fruit[X]
+
+#0x1207 LifeAndDeathManualName
+Life and Death[X]
+
+#0x1208 FortressManualName
+Fortress[X]
+
+#0x375 BlackGemName
+Black Gem[X]
+
+#0x374 GoldGemName
+Gold Gem[X]
+
+#0xE63 GrannblazeName
+Grannblaze[X]
+
+#0x84 ArrowspateName
+Arrowspate[X]
+
+#0x63C ThunderboltName
+Thunderbolt[X]
+
+#0x82 PachydermName
+Pachyderm[X]
+
+#0xF6B RyuseiName
+Ryusei[X]
+
+#0x945 LevinSwordName
+Levin Sword[X]
+
+#0x7F GranCenturioName
+Gran Centurio[X]
+
+#0x3AB EttardName
+Ettard[X]
+
+#0x6C WindName
+Wind[X]
+
+#0xDFE AnemoneName
+Anemone[X]
+
+#0xF3F DimensionSlashName
+Dimension Slash[X]
+
+#0xFD4 BrionacName
+Brionac[X]
+
+#0x1209 PaviseManualName
+Pavise[X]
+
+#0x120A AegisManualName
+Aegis[X]
+
+#0x120B PrayerManualName
+Prayer[X]
+
+#0x120C PuissanceManualName
+Puissance[X]
+
+#0x120D NullifyManualName
+Nullify[X]
+
+#0x120E BunkerManualName
+Bunker[X]
+
+#0x120F WrathManualName
+Wrath[X]
+
+#0x1210 SlowdownManualName
+Slowdown[X]
+
+#0x1211 AmbushManualName
+Ambush[X]
+
+#0x1212 ContinueManualName
+Continue[X]
+
+#0x1213 ParagonManualName
+Paragon[X]
+
+#0x1214 AntipursuitManualName
+Antipursuit[X]
+
+#0x924 WindSealName
+Wind Seal[X]
+
+#0x1215 CharismaManualName
+Charisma[X]
+
+#0x1216 FastDefenseManualName
+Fast Defense[X]
+
+#0x1311 MasteryScrollName
+Mastery Scroll[X]
+
+#0xD12 SilverShieldName
+Silver Shield[X]
+
+#0x81 PersidaName
+Persida[X]
+
+#0xF00 VorpalSwordName
+Vorpal Sword[X]
+
+#0x69 PrayerAmuletName
+Prayer Amulet[X]
+
+#0xB7 IronRainName
+Iron Rain[X]
+
+#0x1217 DistantCounterName
+Distant Counter[X]
+
+#0xE2A ShieldswordName
+Shieldsword[X]
+
+#0x59C NobleRapierName
+Noble Rapier[X]
+
+#0x1218 ReMoveManualName
+Re-move[X]
+
+#0x1219 RenewalManualName
+Renewal[X]
+
+#0x121A CancelManualName
+Cancel[X]
+
+#0xAD UnlearnManualName
+Unlearn[X]
+
+#0x121B TriangleAdeptManualName
+Triangle Adept[X]
+
+#0x121C ArmoredBlowManualName
+Armored Blow[X]
+
+#0x121D BoonManualName
+Boon[X]
+
+#0x121E ChargeManualName
+Charge[X]
+
+#0x121F ShiftManualName
+Shift[X]
+
+#0x1220 DesperationManualName
+Desperation[X]
+
+#0x85 StonehoistName
+Stonehoist[X]
+
+#0x6AE MasterSwordName
+Master Sword[X]
+
+#0xB5 LunaName
+Luna[X]
+
+#0x6EA SecretRing
+Secret Ring[X]
+
+#0xBC PhoenixDraughtName
+Phoenix Draught[X]
+
+#0x37E RenewalRingName
+Renewal Ring[X]
+
+#0x87 LeadershipManual1Name
+Leadership 1[X]
+
+#0x1225 LeadershipManual2Name
+Leadership 2[X]
+
+#0x1221 LunaManualName
+Luna[X]
+
+#0x1222 SolManualName
+Sol[X]
+
+#0xFC2 RubyName
+Ruby[X]
+
+#0xFC3 SapphireName
+Sapphire[X]
+
+#0xFC4 EmeraldName
+Emerald[X]
+
+#0xFC5 TopazName
+Topaz[X]
+
+#0xFC6 DiamondName
+Diamond[X]
+
+#0x1223 FastAttackManualName
+Fast Attack[X]
+
+#0x1224 HeroManualName
+Hero[X]
+
+#0x109F GagnradName
+Gagnrad[X]
+
+#0x117C MagicBootsName
+Magic Boots[X]
+
+#0x132F AdventurersGloveName
+Adventurer's Glove[X]

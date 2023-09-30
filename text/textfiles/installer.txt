@@ -2,3 +2,5 @@
 #include "class/name.txt"
 
 #include "character/name.txt"
+
+#include "item/name.txt"
