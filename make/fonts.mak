@@ -34,4 +34,4 @@ $(item_font_installer): $(item_font_pngs) $(item_font_bins)
 $(serif_font_installer): $(serif_font_pngs) $(serif_font_bins)
 	$(notify)
 	$(make_dir)
-	@python3 $(font_import) --input $(serif_font_bins) --input-image $(serif_font_pngs) --output $(serif_font_installer) --relative-path $(realpath .)/event --name "serif"
+	@python3 $(font_import) --input $(serif_font_bins) --input-image $(serif_font_pngs) --output $(serif_font_installer) --relative-path $(realpath .)/event --name "serif" --width 1

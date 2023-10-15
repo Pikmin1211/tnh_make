@@ -48,6 +48,12 @@ parser.add_argument(
 	help = 'Name of installer.',
 	required = False
 )
+parser.add_argument(
+	'--width',
+	type = int,
+	help = 'Extra width to add to characters',
+	required = False
+)
 
 special_ascii_table = [
 	['apostrophe', '\''],
@@ -103,6 +109,10 @@ def get_file_name(file: str):
 	return Path(file).with_suffix('').name
 
 args = parser.parse_args()
+
+if (args.width is None):
+	args.width = 0
+
 os.makedirs(os.path.dirname(args.output), exist_ok=True)
 with open(args.output, 'w') as outfile:
 
@@ -124,10 +134,10 @@ with open(args.output, 'w') as outfile:
 		file = os.path.relpath(file, args.relative_path)
 		if i+1 == len(args.input):
 			outfile.write(textwrap.dedent(f'''\
-
+				
 				ALIGN 4
 				{args.name}FontEntryNumber{i}:
-				FontEntry({get_ascii_byte(file)}, {get_char_width(image_file)})
+				FontEntry({get_ascii_byte(file)}, {get_char_width(image_file) + args.width})
 				#incbin "{file}"
 			'''))
 		else:
@@ -135,7 +145,7 @@ with open(args.output, 'w') as outfile:
 
 				ALIGN 4
 				{args.name}FontEntryNumber{i}:
-				FontEntry({args.name}FontEntryNumber{i+1}, {get_ascii_byte(file)}, {get_char_width(image_file)})
+				FontEntry({args.name}FontEntryNumber{i+1}, {get_ascii_byte(file)}, {get_char_width(image_file) + args.width})
 				#incbin "{file}"
 			'''))
 		i+=1
