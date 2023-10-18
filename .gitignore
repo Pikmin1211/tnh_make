@@ -23,8 +23,3 @@ event/
 text/.TextEntries/
 text/InstallTextData.event
 text/TextDefinitions.event
-
-# submodules
-tools/Elucidator/
-tools/EventAssembler/
-tools/FE-PyTools/
