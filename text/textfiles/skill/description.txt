@@ -623,3 +623,7 @@ Zeal: When HP is not at maximum, Atk +20%.[X]
 #0x13C6 SD_MagicBubble
 Magic Bubble: Allies within[N]
 3 tiles gain +2 Res.[X]
+
+#0x828 SD_Special
+This unit will leave at[N]
+the chapter's end.[X]

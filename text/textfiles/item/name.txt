@@ -157,8 +157,8 @@ Longbow[X]
 #0x31A BallistaName
 Ballista[X]
 
-#0x31B LongBallistaName
-Long Ballista[X]
+#0x31B IronBallistaName
+Iron Ballista[X]
 
 #0x31C KillerBallistaName
 Killer Ballista[X]
@@ -199,8 +199,8 @@ Purge[X]
 #0x33B AuraName
 Aura[X]
 
-#0x8D SaggittaeName
-Saggittae[X]
+#0x8D SagittaeName
+Sagittae[X]
 
 #0x33D FluxName
 Flux[X]
@@ -268,14 +268,14 @@ Barrier[X]
 #0x30E DragonAxeName
 Dragon Axe[X]
 
-#0x35B SeraphRobeName
-Seraph Robe[X]
+#0x35B AngelicRobeName
+Angelic Robe[X]
 
 #0x35C EnergyRingName
 Energy Ring[X]
 
-#0x35D SkillManualName
-Skill Manual[X]
+#0x35D SecretBookName
+Secret Book[X]
 
 #0x35E SpeedwingName
 Speedwing[X]
@@ -283,14 +283,14 @@ Speedwing[X]
 #0x35F GoddessIconName
 Goddess Icon[X]
 
-#0x360 DracoshieldName
-Dracoshield[X]
+#0x360 DragonshieldName
+Dragonshield[X]
 
 #0x361 TalismanName
 Talisman[X]
 
-#0x362 BootsName
-Boots[X]
+#0x362 SwiftsoleName
+Swiftsole[X]
 
 #0x363 SpiritDustName
 Spirit Dust[X]
@@ -481,7 +481,7 @@ Wind Sword[X]
 #0x1351 MasterBowName
 Master Bow[X]
 
-#0x359 DanceName
+#0x359 DanceItemName
 Dance[X]
 
 #0x323 NightmareName

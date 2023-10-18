@@ -1,0 +1,540 @@
+#0x392 PoisonSwordDesc
+Coated in lethal poison.[X]
+
+#0x393 RapierDesc
+Effective against infantry.[X]
+
+#0xF0D FlambergeDesc
+Effective against knights.[X]
+
+#0x394 BraveSwordDesc
+Can strike consecutively.[X]
+
+#0x395 WoDaoDesc
+Improves critical hit rate.[X]
+
+#0x396 KillingEdgeDesc
+Improves critical hit rate.[X]
+
+#0x397 ArmorslayerDesc
+Effective against knights.[X]
+
+#0x398 WyrmslayerDesc
+Effective against wyverns.[X]
+
+#0x399 LightBrandDesc
+Suffused with light magic.[X]
+
+#0x39A RuneswordDesc
+Imbued with dark magic.[X]
+
+#0x39B LancereaverDesc
+Strong against spears.[X]
+
+#0x39C ZanbatoDesc
+Effective against cavalry.[X]
+
+#0x3A4 ToxinLanceDesc
+Coated in lethal poison.[X]
+
+#0x3A5 BraveLanceDesc
+Can strike consecutively.[X]
+
+#0x3A6 KillerLanceDesc
+Improves critical hit rate.[X]
+
+#0x3A7 HorsesayerDesc
+Effective against cavalry.[X]
+
+#0x3A8 JavelinDesc
+Doubles as ranged attack.[X]
+
+#0x3A9 SpearDesc
+Doubles as ranged attack.[X]
+
+#0x3AA AxereaverDesc
+Strong against axes.[X]
+
+#0x3B4 PoisonAxeDesc
+Coated in lethal poison.[X]
+
+#0x3B5 BraveAxeDesc
+Can strike consecutively.[X]
+
+#0x3B6 KillerAxeDesc
+Improves critical hit rate.[X]
+
+#0x3B7 HalberdDesc
+Effective against cavalry.[X]
+
+#0x3B8 HammerDesc
+Effective against knights.[X]
+
+#0x3B9 DevilAxeDesc
+Might injure its wielder.[X]
+
+#0x3BA HandAxeDesc
+Doubles as ranged attack.[X]
+
+#0x3BB TomahawkDesc
+Doubles as ranged attack.[X]
+
+#0x3BC SwordreaverDesc
+Strong against swords.[X]
+
+#0x3BD SwordslayerDesc
+Good against swordfighters.[X]
+
+#0x3C2 HatchetDesc
+Lightweight and easy to hit with.[X]
+
+#0x3C6 PoisonBowDesc
+Coated in lethal poison.[X]
+
+#0x3C7 KillerBowDesc
+Improves critical hit rate.[X]
+
+#0x3C8 BraveBowDesc
+Can strike consecutively.[X]
+
+#0x3C9 ShortBowDesc
+Improves critical hit rate.[X]
+
+#0x3CA LongbowDesc
+Extended attack range.[X]
+
+#0x3CB BallistaDesc
+Long-range weapon.[X]
+
+#0x3CC IronBallistaDesc
+Super long-range weapon.[X]
+
+#0x3CD KillerBallistaDesc
+Improves critical hit rate.[X]
+
+#0x43E BlizzardDesc
+Puts the enemy to sleep.[X]
+
+#0x3E6 SylpheedDesc
+Sylph the wind spirit.[X]
+
+#0x3EA PurgeDesc
+Improves critical hit rate.[X]
+
+#0x3E3 SagittaeDesc
+Effective against fliers.[X]
+
+#0x3EF NosferatuDesc
+Drains enemy HP into caster.[X]
+
+#0x3F0 MireDesc
+Long-range poison attack.[X]
+
+#0x3F2 GleipnirDesc
+A Sacred Twin tome. Skill +5.[X]
+
+#0x3F9 HealDesc
+Restores HP to allies in[N]
+adjacent spaces.[X]
+
+#0x3FA MendDesc
+Restores many HP to allies[N]
+in adjacent spaces.[X]
+
+#0x3FB RecoverDesc
+Restores all HP to allies[N]
+in adjacent spaces.[X]
+
+#0x3FC PhysicDesc
+Restores HP to allies[N]
+at a distance.[X]
+
+#0x3FD FortifyDesc
+Restores all HP to allies[N]
+nearby.[X]
+
+#0x3FE RestoreDesc
+Returns allies to normal[N]
+condition. (Cures sleep, etc.)[X]
+
+#0x3FF SilenceDesc
+Halts all enemy magic[N]
+for several turns.[X]
+
+#0x400 SleepDesc
+Puts enemies to sleep for[N]
+several turns.[X]
+
+#0x401 BerserkDesc
+Sends enemies into a[N]
+berserker rage.[X]
+
+#0x402 WarpDesc
+Moves allies in adjacent[N]
+spaces instantly elsewhere.[X]
+
+#0x403 RescueDesc
+Moves allies from distant[N]
+spaces to adjacent ones.[X]
+
+#0x404 TorchStaffDesc
+Lights an area. The light[N]
+grows weaker each turn.[X]
+
+#0x405 HammerneDesc
+Restores an adjacent ally's[N]
+weapons to new condition.[X]
+
+#0x406 UnlockDesc
+Unlocks doors, even from[N]
+a distance.[X]
+
+#0x407 BarrierDesc
+Increases magic resistance[N]
+of adjacent allies briefly.[X]
+
+#0x3BE DragonAxeDesc
+Effective against wyverns.[X]
+
+#0x40B AngelicRobeDesc
+Increases HP by a max of[N]
+5 points. Vanishes after use.[X]
+
+#0x40C EnergyRingDesc
+Increases Str by 2 points.[N]
+Vanishes after use.[X]
+
+#0x40D SecretBookDesc
+Increases Skill by 2 points.[N]
+Vanishes after use.[X]
+
+#0x40E SpeedwingDesc
+Increases speed by[N]
+2 points. Vanishes after use.[X]
+
+#0x40F GoddessIconDesc
+Increases luck by[N]
+4 points. Vanishes after use.[X]
+
+#0x410 DragonshieldDesc
+Increases defense by[N]
+2 points. Vanishes after use.[X]
+
+#0x411 TalismanDesc
+Increases resistance by[N]
+2 points. Vanishes after use.[X]
+
+#0x412 SwiftsoleDesc
+Increases movement by[N]
+1 point. Vanishes after use.[X]
+
+#0x413 SpiritDustDesc
+Increases Mag by 2 points.[N]
+Vanishes after use.[X]
+
+#0x414 HeroCrestDesc
+For mercenaries, myrmidons,[N]
+and fighters Lv. 10 and up.[X]
+
+#0x415 KnightCrestDesc
+For knights, soldiers,[N]
+and cavaliers Lv. 10 and up.[X]
+
+#0x416 OrionsBoltDesc
+For archers and arch knights[N]
+Lv. 10 and up.[X]
+
+#0x417 ElysianWhipDesc
+For pegasus knights and[N]
+wyvern riders Lv. 10 and up.[X]
+
+#0x418 GuidingRingDesc
+For magic wielders and[N]
+troubadours Lv. 10 and up.[X]
+
+#0x419 ChestKeyDesc
+Opens chests.[X]
+
+#0x41A DoorKeyDesc
+Opens doors.[X]
+
+#0x41B MasterKeyDesc
+Opens chests and doors.[X]
+
+#0x41C VulneraryDesc
+A medicinal solution used[N]
+for healing minor wounds.[X]
+
+#0x41D ElixirDesc
+A powerful solution that[N]
+restores all HP.[X]
+
+#0x41E PureWaterDesc
+A draught that boosts Res.[N]
+Grows weaker each turn.[X]
+
+#0x41F AntitoxinDesc
+A medicinal solution that[N]
+cures poison.[X]
+
+#0x420 TorchItemDesc
+A staff with burning pitch.[N]
+Grows dimmer each turn.[X]
+
+#0x421 DelphiShieldDesc
+An amulet of the god Delphi.[N]
+Protects fliers from arrows.[X]
+
+#0x422 MemberCardDesc
+If someone with this card[N]
+stops in a suspicious space...[X]
+
+#0x423 SilverCardDesc
+A special card that reduces[N]
+the cost of all items by half.[X]
+
+#0x426 WhiteGemDesc
+A valuable gemstone worth[N]
+10,000 gold.[X]
+
+#0x427 BlueGemDesc
+A rare gemstone worth[N]
+5,000 gold.[X]
+
+#0x428 RedGemDesc
+An uncommon gemstone[N]
+worth 2,500 gold.[X]
+
+#0x429 GoldItemDesc
+A bag full of money.[X]
+
+#0x42A MineDesc
+A trap that damages units[N]
+that step on it.[X]
+
+#0x42B LightRuneDesc
+A device that blocks units[N]
+from entering spaces.[X]
+
+#0x42C IronRuneDesc
+A device that negates[N]
+enemy critical attacks.[X]
+
+#0x8DF FillasMightDesc
+A dance that increases[N]
+allies' attack for a turn.[X]
+
+#0x8E5 NinissGraceDesc
+A dance that increases[N]
+allies' defenses for a turn.[X]
+
+#0x8DA ThorsIreDesc
+A dance that increases[N]
+critical hit % for a turn.[X]
+
+#0x59E SetsLitanyDesc
+A dance that increases[N]
+allies' dodge for a turn.[X]
+
+#0x39D GrannblazeDesc
+An unbreakable dragonic sword.[X]
+
+#0x43D JudgementDesc
+Seals enemy magic.[X]
+
+#0x42D MasterSealDesc
+For some units Lv. 10 and up[N]
+who have not changed class.[X]
+
+#0x4A6 MetissTomeDesc
+Gives a little treat to the[N]
+unit that uses it.[X]
+
+#0xF26 AscensionSealDesc
+A special seal for some units[N]
+who have already promoted.[X]
+
+#0x3D5 SharpClawDesc
+A keen, flesh-tearing claw.[X]
+
+#0x408 LatonaDesc
+A Sacred Twin staff. The[N]
+ancient Staff of Latona.[X]
+
+#0x3AD WintererDesc
+A magic spear of ice.[X]
+
+#0x3CF WretchedAirDesc
+The breath of a dragon corpse.[N]
+It decays everything it touches.[X]
+
+#0x39E BeheadingDesc
+A blade of high prestige.[X]
+
+#0xFD0 TheEternalDesc
+Petrifies with Sol or crits.[X]
+
+#0x3C0 MistralDesc
+An axe that cleaves air itself.[X]
+
+#0x3CE BelenusDesc
+A bow with the power of the Sun.[X]
+
+#0x3AF HeavySpearDesc
+Effective against knights.[X]
+
+#0x3B0 ShortSpearDesc
+Doubles as ranged attack.[X]
+
+#0x42F OceanSealDesc
+For use by thieves and[N]
+pirates Lv. 10 and up.[X]
+
+#0x431 PursuitRingDesc
+A mysterious ring that always[N]
+allows follow up attacks.[X]
+
+#0x39F WindSwordDesc
+Capable of indirect attacks.[X]
+
+#0x409 DanceItemDesc
+Allows allies to act again.[X]
+
+#0x3D4 NightmareDesc
+Lulls all enemies within range[N]
+into a deep slumber.[X]
+
+#0x3D2 DemonLightDesc
+A malefic flash that destroys[N]
+everything it touches.[X]
+
+#0x3D3 RavagerDesc
+A horrific blow that invites[N]
+the destruction of all.[X]
+
+#0x448 DragonstoneDesc
+A stone imbued with mysterious might.[N]
+Myrrh draws strength from it.[X]
+
+#0x3F8 MeteorDesc
+Long-range meteor blast.[X]
+
+#0x1057 PiercingBowDesc
+Effective against knights.[X]
+
+#0x3D8 RottenClawDesc
+A sharpened, decayed claw.[X]
+
+#0x3D9 FetidClawDesc
+A foul talon meant to rend flesh.[X]
+
+#0x3DA FieryFangDesc
+A sharp, piercing fang.[X]
+
+#0x3DB HellfangDesc
+A long, daggerlike fang.[X]
+
+#0xE65 TrashChuteDesc
+Launches nasty poison.[X]
+
+#0x3F4 PetrifyDesc
+Turns targets to stone for a while.[X]
+
+#0x432 JunaFruitDesc
+Give this to a worthy unit[N]
+and see what happens.[X]
+
+#0x425 BlackGemDesc
+A valuable gemstone worth[N]
+15,000 gold.[X]
+
+#0x424 GoldGemDesc
+A valuable gemstone worth[N]
+20,000 gold.[X]
+
+#0x3B1 ThunderboltDesc
+Magic effective against ballistae.[X]
+
+#0xF6C RyuseiDesc
+Unbreakable and strikes twice.[X]
+
+#0xF6E GranCenturioDesc
+An unbreakable holy sword.[X]
+
+#0xF2F AnemoneDesc
+A sword with a floral motif.[X]
+
+#0xF40 DimensionSlashDesc
+A blade that manipulates space.[X]
+
+#0xFD5 BrionacDesc
+Magic spear that calls lightning.[X]
+
+#0xFB5 WindSealDesc
+Holding it grants Avo +15.[X]
+
+#0x1312 MasteryScrollDesc
+Holding it grants mastery of[N]
+both weapons and magic.[X]
+
+#0xE3E PersidaDesc
+Defense +3 while held.[X]
+
+#0x91B VorpalSwordDesc
+Effective against fliers.[X]
+
+#0x968 PrayerAmuletDesc
+Holding it allows the unit to[N]
+survive a fatal blow at 1 HP.[X]
+
+#0xE2B ShieldSwordDesc
+Combination of shield and sword.[X]
+
+#0x3EE LunaDesc
+Negates enemy resistance.[X]
+
+#0x430 SecretRingDesc
+Removes the S Rank requirement[N]
+for skills when held.[X]
+
+#0xF61 PhoenixDraughtDesc
+Withstand fatal blows at 1 HP[N]
+and fully recover after battle.[X]
+
+#0x6B3 LeadershipManual1Desc
+Grants an additional[N]
+star of leadership.[X]
+
+#0x6AD LeadershipManual2Desc
+Grants an additional[N]
+2 stars of leadership.[X]
+
+#0xFC7 RubyDesc
+When held, strength +2, and[N]
+makes it more likely to increase.[X]
+
+#0xFC8 SapphireDesc
+When held, defense +2, and[N]
+makes it more likely to increase.[X]
+
+#0xFC9 EmeraldDesc
+When held, Skl/Spd +2, and[N]
+makes them more likely to increase.[X]
+
+#0xFCB TopazDesc
+When held, luck +4, and[N]
+makes it more likely to increase.[X]
+
+#0xFCA DiamondDesc
+When held, Mag/Res +2, and[N]
+makes them more likely to increase.[X]
+
+#0x13B8 GagnradDesc
+Magic twin swords that strike twice.[X]
+
+#0x117B MagicBootsDesc
+Grants Mov +2 when held.[X]
+
+#0x1330 AdventurersGloveDesc
+Wearing them makes you[N]
+feel more adventurous.[X]

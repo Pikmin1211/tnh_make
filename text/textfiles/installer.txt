@@ -4,5 +4,6 @@
 #include "character/name.txt"
 
 #include "item/name.txt"
+#include "item/description.txt"
 
 #include "skill/description.txt"
