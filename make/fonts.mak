@@ -14,7 +14,7 @@ serif_font_bins := $(patsubst $(serif_font_png)/%.png, $(serif_font_bin)/%.bin, 
 
 item_font_installer := $(event)/item_font_installer.event
 serif_font_installer := $(event)/serif_font_installer.event
-font_import := $(realpath .)/tools/elucidator/font_import.py
+font_import := $(elucidator)/FontImport/FontImport.py
 font_settings := -gb -gB 2 -u8 -p! -fh!
 
 # font png to bin

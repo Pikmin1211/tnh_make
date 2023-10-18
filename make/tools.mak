@@ -1,16 +1,16 @@
 
 tools := $(realpath .)/tools
-elucidator := $(tools)/elucidator
+elucidator := $(tools)/Elucidator
 grit := $(DEVKITPRO)/tools/bin/grit
 
-ea := $(tools)/eventassembler
+ea := $(tools)/EventAssembler
 core := $(ea)/ColorzCore
 ea_flags := --nocash-sym
 ea_tools := $(ea)/Tools
 eadep := $(ea)/ea-dep
 event_depends := $(shell $(eadep) $(buildfile) -I $(ea) --add-missings)
 
-fe_pytools := $(tools)/fe-pytools
+fe_pytools := $(tools)/FE-PyTools
 
 text_process := $(fe_pytools)/text-process-classic.py
 parsefile := $(ea_tools)/ParseFile
