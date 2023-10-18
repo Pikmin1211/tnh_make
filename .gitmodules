@@ -1,0 +1,9 @@
+[submodule "tools/Elucidator"]
+	path = tools/Elucidator
+	url = https://github.com/Pikmin1211/Elucidator
+[submodule "tools/EventAssembler"]
+	path = tools/EventAssembler
+	url = https://github.com/StanHash/EventAssembler
+[submodule "tools/FE-PyTools"]
+	path = tools/FE-PyTools
+	url = https://github.com/StanHash/FE-PyTools
