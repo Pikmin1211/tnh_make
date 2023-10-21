@@ -1,0 +1,354 @@
+#0x290 ChevalierDesc
+A young monarch who fights to[N]
+protect their home. Equip: Swords.[X]
+
+#0x72 RavenDesc
+A mercenary with a commanding[N]
+presence. Equip: Swords, axes.[X]
+
+#0x292 CommandeurDesc
+A commander who leads their allies[N]
+on the front. Equip: Swords, lances.[X]
+
+#0x293 CommandKnightDesc
+A commander who strikes fear into[N]
+their enemies. Equip: Swords, axes.[X]
+
+#0x294 CavalierDesc
+Mounted knights with swift movement.[N]
+Equip: Swords, lances.[X]
+
+#0xD3C LanceKnightDesc
+Mounted knights with swift movement.[N]
+Equip: Lances.[X]
+
+#0x295 PaladinDesc
+Superior mounted knights. Equip:[N]
+Swords, lances. Skill: Sol.[X]
+
+#0xDCE LancePaladinDesc
+Superior mounted knights. Equip:[N]
+Lances, axes. Skill: Sol.[X]
+
+#0x296 LanceArmorDesc
+Heavily armored knights with poor[N]
+movement. Equip: Lances.[X]
+
+#0x907 AxeArmorDesc
+Heavily armored knights with poor[N]
+movement. Equip: Axes.[X]
+
+#0x297 GeneralDesc
+Knights of great skill. Equip: Lances,[N]
+axes. Skill: Pavise.[X]
+
+#0x2A8 SwordGeneralDesc
+Knights of great skill. Equip: Swords,[N]
+lances. Skill: Luna.[X]
+
+#0x298 ThiefDesc
+Multitalented knaves with an eye for[N]
+riches. Equip: Swords.[X]
+
+#0x299 MercenaryDesc
+Well-balanced professional soldiers-[N]
+for-hire. Equip: Swords.[X]
+
+#0xF11 SwordArmorDesc
+Heavily armored knights with poor[N]
+movement. Equip: Swords.[X]
+
+#0x29A HeroDesc
+Seasoned veterans. Equip: Swords,[N]
+axes. Skill: Aether.[X]
+
+#0x29B MyrmidonDesc
+Talented swordsmen skilled in swift[N]
+killing strokes. Equip: Swords.[X]
+
+#0x29C SwordmasterDesc
+Lightning-fast swordsmen. Equip:[N]
+Swords. Skill: Astra, Avo +15.[X]
+
+#0x29D AssassinDesc
+Masters of the killing arts.[N]
+Equip: Swords. Skill: Pass.[X]
+
+#0x29E ArcherDesc
+Warriors who use bows to attack from[N]
+afar. Equip: Bows.[X]
+
+#0x29F SniperDesc
+Archers of unparalleled accuracy.[N]
+Equip: Bows. Skill: Bow Range +1.[X]
+
+#0x2A0 RangerDesc
+Skilled mounted fighters. Equip:[N]
+Swords, bows. Skill: Proximity Shot.[X]
+
+#0x2A1 WyvernRiderDesc
+High-flying knights vulnerable only to[N]
+bows and magic. Equip: Lances.[X]
+
+#0x2A2 WyvernLordDesc
+Superior wyvern-mounted knights.[N]
+Equip: Lances, axes. Skill: Enrage.[X]
+
+#0x2A9 SwordWyvernLordDesc
+Superior wyvern-mounted knights.[N]
+Equip: Swords, lances. Skill: Sol.[X]
+
+#0x2C5 WyvernKnightDesc
+Wyvern riders who can pierce enemy[N]
+defenses. Equip: Lances. Skill: Pierce.[X]
+
+#0x2A3 DarkFlierDesc
+Fearsome riders of black-winged pegasi.[N]
+Equip: Lances. Skill: Galeforce.[X]
+
+#0x2A4 MageDesc
+Magic wielders with solid skills but low[N]
+physical strength. Equip: Anima.[X]
+
+#0x2A5 SageDesc
+Advanced magical scholars. Equip:[N]
+Anima, light, staves. Skill: Flare.[X]
+
+#0x2A6 MageKnightDesc
+Knights trained in magic. Equip:[N]
+Swords, anima. Skill: Ambush.[X]
+
+#0x2A7 BishopDesc
+Users of monster-slaying light magic.[N]
+Equip: Light, staves. Skill: Magekiler.[X]
+
+#0x2B3 ShamanDesc
+Wielders of magic who are stronger,[N]
+but slower, than mages. Equip: Dark.[X]
+
+#0x2B4 DruidDesc
+Wielders of ancient magic. Equip:[N]
+Dark, anima, staves. Skill: Eclipse.[X]
+
+#0x2B5 SummonerDesc
+Master sorcerers who summon fighters.[N]
+Equip: Anima, dark. Skill: Summon.[X]
+
+#0x2AD RogueDesc
+Skilled and renowned knaves. Equip:[N]
+Swords, staves. Skill: Pass.[X]
+
+#0x2B2 GreatKnightDesc
+Knights with great defense. Equip:[N]
+Swords, lances, axes. Skill: Luna.[X]
+
+#0xF2D BowGeneralDesc
+Knights of great skill. Equip: Lances,[N]
+bows. Skill: Formation.[X]
+
+#0xF42 SergeantDesc
+An experienced warrior. Equip: Swords,[N]
+lances. Skill: Rend Heaven.[X]
+
+#0x1344 ImperialDesc
+Dutiful guardian knights. Equip:[N]
+Lances, axes. Skill: Guardian.[X]
+
+#0x2AC PrincessDesc
+Skilled royalty. Equip: Swords,[N]
+anima, light, dark. Skill: Flare.[X]
+
+#0x2B9 RecruitDesc
+Unproven knights with dreams[N]
+of glory. Equip: Lances.[X]
+
+#0x2AA ManaketeDesc
+Mysterious tribesmen who can turn[N]
+into dragons. Equip: Dragonstone.[X]
+
+#0xE67 ThaumaturgeDesc
+Powerful magicians who travel[N]
+on horseback. Equip: Anima.[X]
+
+#0x2AE FighterDesc
+Ruffians with great strength but[N]
+poor defense. Equip: Axes.[X]
+
+#0x2AF WarriorDesc
+Powerful, stalwart warriors. Equip:[N]
+Axes, bows. Skill: Colossus.[X]
+
+#0x2B0 BrigandDesc
+Mighty mercenaries who thrive[N]
+in mountains. Equip: Axes.[X]
+
+#0x2C1 PirateDesc
+Tough brawlers who call the[N]
+sea their home. Equip: Axes.[X]
+
+#0x2B1 BerserkerDesc
+Fighters at home both in mountains and[N]
+at sea. Equip: Axes. Skill: Vengeance.[X]
+
+#0x2B6 MonkDesc
+Users of light magic with high[N]
+resistance. Equip: Light, staves.[X]
+
+#0x2B7 PriestDesc
+Spiritual guides who use sacred staves[N]
+to heal allies. Equip: Light, staves.[X]
+
+#0x2B8 BardDesc
+Musicians whose melodies aid[N]
+allies. Unable to attack.[X]
+
+#0x2C0 SoldierDesc
+Average soldiers possessing[N]
+no special abilities. Equip: Lances.[X]
+
+#0x2BA PegasusKnightDesc
+Airborne knights who resist magic but[N]
+are weak against bows. Equip: Lances.[X]
+
+#0x2BB FalconKnightDesc
+Swift sky warriors. Equip: Swords,[N]
+lances, staves. Skill: Petrify.[X]
+
+#0x2BC ClericDesc
+Holy women who use sacred staves to[N]
+heal their allies. Equip: Light, staves.[X]
+
+#0x2BD TroubadourDesc
+Maidens who wield staves from[N]
+horseback. Equip: Staves.[X]
+
+#0x2BE ValkyrieDesc
+Sacred battle maidens Equip:[N]
+Anima, staves. Skill: Staff Savant.[X]
+
+#0x2BF DancerDesc
+Dancers whose dances revitalize[N]
+their allies. They cannot attack.[X]
+
+#0x2C2 MasterLordDesc
+One with mastery of the highest magical[N]
+arts, known as a sovereign ruler.[X]
+
+#0x2C3 FleetDesc
+Warships that patrol the open seas.[N]
+They carry powerful ballistae.[X]
+
+#0x2C4 PhantomDesc
+Phantom warriors who possess great[N]
+strength but vanish when attacked.[X]
+
+#0x2C8 WitchDesc
+Flying, masterful magicians. Equip:[N]
+Anima, light, dark. Skill: Lifetaker.[X]
+
+#0x691 HalberdierDesc
+Elite soldiers of great skill. Equip:[N]
+Lances. Skill: Impale.[X]
+
+#0x2C7 ArchKnightDesc
+Plainsmen with high speed and[N]
+strong movement. Equip: Bows.[X]
+
+#0x2CF BowKnightDesc
+Archers wielding special horse-mounted[N]
+bows. Equip: Bows, lances. Skill: Luna.[X]
+
+#0x2C9 BaelDesc
+Giant poisonous mountain spiders with[N]
+venom-filled fangs.[X]
+
+#0x2CA ElderBaelDesc
+Magic-infused giant spiders.[N]
+Their venom is lethal.[X]
+
+#0x2CB StrayLordDesc
+A title gifted to the self-proclaimed[N]
+king of thieves. Equip: Axes. Skill: Nihil.[X]
+
+#0x2CC MautheDoogDesc
+Blood-hungry demon dogs that attack[N]
+with keen-edged fangs.[X]
+
+#0x2CD GwyllgiDesc
+Savage, three-headed hellhounds.[N]
+Their fangs are cruel death dealers.[X]
+
+#0x2CE AxeKnightDesc
+Mounted knights with swift movement.[N]
+Equip: Swords, axes.[X]
+
+#0x2D1 DragoonDesc
+Ruthless veteran lance wielders.[N]
+Equip: Lances. Skill: Dragon Fang.[X]
+
+#0x2D0 BaronDesc
+Armored titans wielding many arms. Equip:[N]
+All. Skill: Pavise, Aegis, Mage Adept.[X]
+
+#0x2D2 BaronBDesc
+Armored titans wielding many arms. Equip:[N]
+All. Skill: Pavise, Aegis, Martial Arts.[X]
+
+#0x9A8 BallisticianDesc
+Heavy tanks specialized in attacking[N]
+from a great distance. Equip: Ballistae.[X]
+
+#0x2D4 MasterKnightDesc
+Knights wielding many arms. Equip:[N]
+All. Skill: Pavise, Aegis, Mage Adept.[X]
+
+#0x2D5 MasterKnightBDesc
+Knights wielding many arms. Equip:[N]
+All. Skill: Pavise, Aegis, Martial Arts.[X]
+
+#0x2D6 DracoZombieDesc
+The revived corpse of a dragon. Its[N]
+putrid breath decays all it touches.[X]
+
+#0x2D7 DemonKingDesc
+This foul being is the master of the[N]
+dark. Its power exceeds mortal ken.[X]
+
+#0x2D8 CivilianDesc
+An innocent peasant lacking any[N]
+combat skills at all.[X]
+
+#0x6A1 MaidDesc
+Dutiful servants. Equip: Swords, staves.[N]
+Skill: Renewal, Tomebreaker, Avo +15.[X]
+
+#0xE60 HarbingerDesc
+Specialized soldiers wielding axes[N]
+and dark magic to take on any foe.[X]
+
+#0xDD0 LaPucelleDesc
+Mysterious fencer with a holy sword.[N]
+Equip: Swords. Skill: Crusade, Miracle.[X]
+
+#0x2DA CommanderDesc
+A flawless, peerless leader whose mere[N]
+prescence can turn the tides of battle.[X]
+
+#0x2C6 TransporterDesc
+Carriages that carry[N]
+valuable wares. Cannot fight.[X]
+
+#0x1298 PopeDesc
+The master of the arena.[X]
+
+#0x2D3 TacticianDesc
+A leader upon whom victory hinges.[N]
+Equip: Sword, anima, staff.[X]
+
+#0xE62 WarMonkDesc
+Clerics familiar with the battlefield. Equip:[N]
+Axes, staves. Skill: Renewal, Boon.[X]
+
+#0xDCD AxePaladinDesc
+Superior mounted knights. Equip:[N]
+Swords, axes. Skill: Sol.[X]
