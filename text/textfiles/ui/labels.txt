@@ -1,0 +1,248 @@
+#0x1 AffinityFireLabel
+ [X]
+
+#0x2 AffinityThunderLabel
+ [X]
+
+#0x3 AffinityWindLabel
+ [X]
+
+#0x4 AffinityIceLabel
+ [X]
+
+#0x5 AffinityAnimaLabel
+ [X]
+
+#0x6 AffinityLightLabel
+ [X]
+
+#0x7 AffinityDarkLabel
+ [X]
+
+#0x5D9 DodgeLabel
+Ddg[X]
+
+#0x6D LeadershipLabel
+Ldr[X]
+
+#0x78 SkillsLabel
+Skills[X]
+
+#0x474 NameLabel
+Name[X]
+
+#0x475 ClassLabel
+Class[X]
+
+#0x476 LevelLabel
+Lv[X]
+
+#0x477 ExpLabel
+Exp[X]
+
+#0x478 HPLabel
+HP[X]
+
+#0x479 MaxLabel
+Max[X]
+
+#0x47A StrMagLabel
+S/M[X]
+
+#0x47B SkillLabel
+Skill[X]
+
+#0x47C SpeedLabel
+Spd[X]
+
+#0x47D LuckLabel
+Luck[X]
+
+#0x47E DefenseLabel
+Def[X]
+
+#0x47F ResistanceLabel
+Res[X]
+
+#0x480 AffinityLabel
+Aff[X]
+
+#0x481 EquipLabel
+Equip[X]
+
+#0x482 AttackLabel
+Atk[X]
+
+#0x483 HitLabel
+Hit[X]
+
+#0x484 AvoidLabel
+Avo[X]
+
+#0x485 MovementLabel
+Move[X]
+
+#0x486 ConstitutionLabel
+Con[X]
+
+#0x487 AidLabel
+Aid[X]
+
+#0x488 TravellerLabel
+Trv[X]
+
+#0x489 ConditionLabel
+Cond[X]
+
+#0x48A SupportAllyLabel
+Ally[X]
+
+#0x48B AnimationLabel
+Anim[X]
+
+#0x48C SortLabel
+Sort:[X]
+
+#0x48D StrengthLabel
+Str[X]
+
+#0x48E MagicLabel
+Mag[X]
+
+#0x48F RangeLabel
+Rng[X]
+
+#0x490 CritLabel
+Crit[X]
+
+#0x491 WeightLabel
+Wt[X]
+
+#0x492 MightLabel
+Mt[X]
+
+#0x493 AttackSpeedLabel
+AS[X]
+
+#0x494 SwordLabel
+Sword[X]
+
+#0x495 LanceLabel
+Lance[X]
+
+#0x496 AxeLabel
+Axe[X]
+
+#0x497 BowLabel
+Bow[X]
+
+#0x498 StaffLabel
+Staff[X]
+
+#0x499 FireLabel
+Fire[X]
+
+#0x49A ThunderLabel
+Thunder[X]
+
+#0x49B WindLabel
+Wind[X]
+
+#0x49C IceLabel
+Ice[X]
+
+#0x49D AnimaLabel
+Anima[X]
+
+#0x49E LightLabel
+Light[X]
+
+#0x49F DarkLabel
+Dark[X]
+
+#0x4A3 StatusPoisonLabel
+Poison[X]
+
+#0x4A4 StatusSleepLabel
+Sleep[X]
+
+#0x4A5 StatusSilenceLabel
+Silence[X]
+
+#0x4A6 StatusBerserkLabel
+Berserk[X]
+
+#0x4A7 StatusFatigueLabel
+Fatigue[X]
+
+#0x4A8 StatusRecoverLabel
+Recovr[X]
+
+#0x4A9 StatusPetrifyLabel
+Petrify[X]
+
+#0x4AA StatusAttackBoostLabel
+Attack[X]
+
+#0x4AB StatusDefenseBoostLabel
+Defend[X]
+
+#0x4AC StatusCriticalBoostLabel
+Critical[X]
+
+#0x4AD StatusAvoidBoostLabel
+Dodge[X]
+
+#0x4AE RankRangeLabel
+RNK[X]
+
+#0x4AF Range1Label
+  1[X]
+
+#0x4B0 Range12Label
+1 - 2[X]
+
+#0x4B1 Range13Label
+1 - 3[X]
+
+#0x4B2 Range2Label
+  2[X]
+
+#0x4B3 Range23Label
+2 -3[X]
+
+#0x4B4 Range310Label
+3 -10[X]
+
+#0x4B5 Range315Label
+3 -15[X]
+
+#0x4B6 RangeMaxLabel
+Max[X]
+
+#0x4B7 TripleDashLabel
+ ---[X]
+
+#0x4B8 DashLabel
+-[X]
+
+#0x4B9 ERankLabel
+  E[X]
+
+#0x4BA DRankLabel
+  D[X]
+
+#0x4BB CRankLabel
+  C[X]
+
+#0x4BC BRankLabel
+  B[X]
+
+#0x4BD ARankLabel
+  A[X]
+
+#0x4BE SRankLabel
+  S[X]
+
+#0x4BF PrfRankLabel
+Prf[X]

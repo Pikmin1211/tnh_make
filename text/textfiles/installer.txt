@@ -8,3 +8,5 @@
 #include "item/description.txt"
 
 #include "skill/description.txt"
+
+#include "ui/labels.txt"

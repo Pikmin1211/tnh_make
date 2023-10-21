@@ -346,7 +346,7 @@ Seals enemy magic.[X]
 For some units Lv. 10 and up[N]
 who have not changed class.[X]
 
-#0x4A6 MetissTomeDesc
+#0x42E MetissTomeDesc
 Gives a little treat to the[N]
 unit that uses it.[X]
 

@@ -10,18 +10,16 @@ PUSH
 	BYTE 0x7
 	ORG $AC1B0A //make world map menu wider
 	BYTE 0x7
-	//ORG $9aeac //prep menu width
-	//BYTE 0x0A
 	ORG $89478
 	BYTE 0x0 //shift str label over
 	ORG $1F5325
 	BYTE 0x0 //shift skl label over
 
 //Item R-button menu stuff
-	//ORG $8BF6E //line up Rng and Hit labels
-	//BYTE 0x2F
-	//ORG $8C000 //shift Rng number over so it doesn't overlap with the label
-	//BYTE 0x40
+	ORG $8BF6E //line up Rng and Hit labels
+	BYTE 0x2F
+	ORG $8C000 //shift Rng number over so it doesn't overlap with the label
+	BYTE 0x40
 	ORG $8BFEE //shift weapon rank over so it doesn't overlap with *its* label
 	BYTE 0x1B //weapon rank letters need spaces
 	ORG $8C080 //shift staff weapon rank over

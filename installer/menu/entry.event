@@ -1,0 +1,11 @@
+//Affinity Text
+PUSH
+	ORG $DC950
+	WORD 0x01 //original text id 499
+	WORD 0x02 //original text id 49A
+	WORD 0x03 //original text id 49B
+	WORD 0x04 //original text id 49C
+	WORD 0x05 //original text id 49F
+	WORD 0x06 //original text id 49E
+	WORD 0x07 //original text id 49D
+POP
