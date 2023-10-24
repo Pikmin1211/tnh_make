@@ -1,0 +1,19 @@
+
+#define GUIString(stuff) "String(stuff); BYTE 0x00; ALIGN 4"
+
+PUSH
+	ORG 0x8F684
+	POIN TurnsLeftLabel
+	ORG 0x8F6EC
+	POIN LastTurnLabel
+	ORG 0x8F760
+	POIN TurnCounterLabel
+POP
+
+ALIGN 4
+TurnsLeftLabel:
+GUIString(Left)
+LastTurnLabel:
+GUIString(Last Turn)
+TurnCounterLabel:
+GUIString(Turn)

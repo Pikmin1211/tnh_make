@@ -7,6 +7,7 @@
 
 #include "ascii/gamemenu.event"
 #include "ascii/terrain.event"
+#include "ascii/gui.event"
 
 #include "menu/alignment.event"
 #include "menu/entry.event"

@@ -587,8 +587,8 @@ attacking and defeating an enemy.[N]
 Lucky Day: When HP < 10, Avo +50.[X]
 
 #0x1338 SD_FirstStrike
-First Strike: When attacking[N]
-without moving, Atk +2 and Hit +10.[X]
+First Strike: When initiating[N]
+an attack, Atk +2 and Hit +10.[X]
 
 #0x133B SD_Takeoff
 Takeoff: Always canto for 7 tiles.[X]
