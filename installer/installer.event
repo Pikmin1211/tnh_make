@@ -6,6 +6,7 @@
 #include "graphic/installer.event"
 
 #include "ascii/gamemenu.event"
+#include "ascii/terrain.event"
 
 #include "menu/alignment.event"
 #include "menu/entry.event"
