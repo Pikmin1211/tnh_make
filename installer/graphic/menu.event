@@ -19,9 +19,72 @@ PUSH
 	POIN mainmenugraphics
 	ORG 0xAEF20
 	POIN mainmenugraphics
+	// difficulty select graphics
+	ORG 0xB0C34
+	POIN difficultyselectgraphics
+	// extras menu graphics
+	ORG 0xAD94C
+	POIN extrasmenugraphics
+	ORG 0xAE474
+	POIN extrasmenugraphics
+	ORG 0xAEA64
+	POIN extrasmenugraphics
+	ORG 0xAEF34
+	POIN extrasmenugraphics
+	// chapter status menu graphics
+	ORG 0x90AE0
+	POIN chapterstatusmenugraphics
+	// sound room menu graphics
+	ORG 0xB4400
+	POIN soundroommenugraphics
+	// support menu graphics
+	ORG 0xA6200
+	POIN supportmenugraphics
+
+	// prep banner graphics
+	ORG 0x98100
+	POIN prepbannergraphics
+	// support banner graphics
+	ORG 0xA52BC
+	POIN supportbannergraphics
 POP
 
 // main menu graphics
 ALIGN 4
 mainmenugraphics:
 #incbin "../../bin/cmp/menu/mainmenu.bin"
+
+// difficulty select graphics
+ALIGN 4
+difficultyselectgraphics:
+#incbin "../../bin/cmp/menu/difficultyselect.bin"
+
+// extras menu graphics
+ALIGN 4
+extrasmenugraphics:
+#incbin "../../bin/cmp/menu/extrasmenu.bin"
+
+// chapter status menu graphics
+ALIGN 4
+chapterstatusmenugraphics:
+#incbin "../../bin/cmp/menu/chapterstatusmenu.bin"
+
+// sound room menu graphics
+ALIGN 4
+soundroommenugraphics:
+#incbin "../../bin/cmp/menu/soundroommenu.bin"
+
+// support menu graphics
+ALIGN 4
+supportmenugraphics:
+#incbin "../../bin/cmp/menu/supportmenu.bin"
+
+// prep banner graphics
+ALIGN 4
+prepbannergraphics:
+#incbin "../../bin/cmp/menu/prepbanner.bin"
+
+// support banner graphics
+ALIGN 4
+supportbannergraphics:
+#incbin "../../bin/cmp/menu/supportbanner.bin"

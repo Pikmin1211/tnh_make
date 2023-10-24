@@ -5,8 +5,8 @@ Isaac[X]
 #0x9A WolfName
 Wolf[X]
 
-#0x80 BerkusName
-Berkus[X]
+#0x80 BacchusName
+Bacchus[X]
 
 #0x19C OrnisName
 Ornis[X]

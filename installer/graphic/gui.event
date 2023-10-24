@@ -1,0 +1,60 @@
+
+PUSH
+	// hp bar graphics
+	ORG 0x156C8
+	POIN hpbargraphics
+	// status platform graphics
+	ORG 0xD3BE8
+	POIN statusplatformgraphics
+	// status condition graphics
+	ORG 0x8E750
+	POIN statusconditiongraphics
+	// prep buttons a graphics
+	ORG 0x98018
+	POIN prepbuttonsagraphics
+	ORG 0x9CBB8
+	POIN prepbuttonsagraphics
+	// prep buttons b graphics
+	ORG 0x3347C
+	POIN prepbuttonsbgraphics
+	ORG 0x8FB80
+	POIN prepbuttonsbgraphics
+	// convoy merge graphics
+	// this sucks but the custom code "weapons integration patch" 
+	// doesnt even use a pointer for the image "fantasy2"
+	ORG 0x11AAB8C
+	#incbin "../../bin/cmp/gui/convoymerge.bin"
+	// evaluation graphics
+	ORG 0xBCB5C
+	POIN evaluationgraphics
+POP
+
+// hp bar graphics
+ALIGN 4
+hpbargraphics:
+#incbin "../../bin/cmp/gui/hpbar.bin"
+
+// status platform graphics
+ALIGN 4
+statusplatformgraphics:
+#incbin "../../bin/cmp/gui/statusplatform.bin"
+
+// status condition graphics
+ALIGN 4
+statusconditiongraphics:
+#incbin "../../bin/cmp/gui/statuscondition.bin"
+
+// prep buttons a graphics
+ALIGN 4
+prepbuttonsagraphics:
+#incbin "../../bin/cmp/gui/prepbuttonsa.bin"
+
+// prep buttons b graphics
+ALIGN 4
+prepbuttonsbgraphics:
+#incbin "../../bin/cmp/gui/prepbuttonsb.bin"
+
+// evaluation graphics
+ALIGN 4
+evaluationgraphics:
+#incbin "../../bin/cmp/gui/evaluation.bin"
