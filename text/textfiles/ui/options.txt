@@ -1,0 +1,158 @@
+#0x9 OptionLabelAnimation
+Animation[X]
+
+#0xA OptionLabelAutosave
+Autosave[X]
+
+#0xB OptionLabelUnit
+Unit[X]
+
+#0xC OptionLabelCombat
+Combat[X]
+
+#0xD OptionLabelSubtitleHelp
+Subtitle Help[X]
+
+#0xE OptionLabelAutocursor
+Autocursor[X]
+
+#0xF OptionLabelTextSpeed
+Text Speed[X]
+
+#0x10 OptionLabelGameSpeed
+Game Speed[X]
+
+#0x11 OptionLabelMusic
+Music[X]
+
+#0x12 OptionLabelSoundEffects
+Sound Effects[X]
+
+#0x13 OptionLabelWindowColor
+Window Color[X]
+
+#0x15 OptionLabelAutoendTurns
+Autoend Turns[X]
+
+#0x17 OptionLabelShowObjective
+Show Objective[X]
+
+#0x16 OptionSelectionTurn
+Turn[X]
+
+#0x36 OptionSelectionOn
+ON[X]
+
+#0x37 OptionSelectionOff
+OFF[X]
+
+#0x38 OptionSelectionOne
+1[X]
+
+#0x39 OptionSelectionTwo
+2[X]
+
+#0x3A OptionSelectionThree
+3[X]
+
+#0x3B OptionSelectionFour
+4[X]
+
+#0x3C OptionSelectionSlow
+Slow[X]
+
+#0x3D OptionSelectionNormal
+Norm[X]
+
+#0x3E OptionSelectionFast
+Fast[X]
+
+#0x3F OptionSelectionMax
+Max[X]
+
+#0x40 OptionSelectionSolo
+Solo[X]
+
+#0x41 OptionSelectionDetail
+Detail[X]
+
+#0x42 OptionSelectionStrat
+Strat[X]
+
+#0x43 OptionSelectionBoth
+Both[X]
+
+#0x44 OptionSelectionSingle
+Single[X]
+
+#0x1A OptionDescAnimationOne
+Show animation without backgrounds[X]
+
+#0x1B OptionDescAnimationTwo
+Show animation with backgrounds[X]
+
+#0x1C OptionDescAnimationOff
+Turn combat animation off[X]
+
+#0x1D OptionDescAnimationSolo
+Set animation for each unit manually[X]
+
+#0x1E OptionDescGameSpeedNorm
+Set unit movement speed[X]
+
+#0x1F OptionDescGameSpeedFast
+Set unit movement speed (fast)[X]
+
+#0x20 OptionDescTextSpeedSlow
+Set message speed (slow)[X]
+
+#0x21 OptionDescTextSpeedNorm
+Set message speed[X]
+
+#0x22 OptionDescTextSpeedFast
+Set message speed (fast)[X]
+
+#0x23 OptionDescTextSpeedMax
+Set message speed (autoscroll)[X]
+
+#0x24 OptionDescAutosave
+Save after each action taken[X]
+
+#0x25 OptionDescUnitBoth
+Show unit window with tail[X]
+
+#0x26 OptionDescUnitSingle
+Show normal unit window[X]
+
+#0x27 OptionDescUnitOff
+Turn unit window off[X]
+
+#0x28 OptionDescCombatStrat
+Show basic Combat Info window[X]
+
+#0x29 OptionDescCombatDetail
+Show detailed Combat Info window[X]
+
+#0x2A OptionDescCombatOff
+Turn Combat Info window off[X]
+
+#0x2B OptionDescSubtitleHelp
+Set Easy/Help scroll display[X]
+
+#0x2C OptionDescAutocursor
+Set cursor to start on main hero[X]
+
+#0x2D OptionDescAutoendTurns
+Set turn to end automatically[X]
+
+#0x2E OptionDescMusic
+Turn music on or off[X]
+
+#0x2F OptionDescSoundEffects
+Turn sound effects on or off[X]
+
+#0x30 OptionDescWindowColor
+Change window color[X]
+
+#0x33 OptionDescShowObjective
+Turn Chapter Goal display on or off[X]

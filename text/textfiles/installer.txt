@@ -10,3 +10,4 @@
 #include "skill/description.txt"
 
 #include "ui/labels.txt"
+#include "ui/options.txt"
